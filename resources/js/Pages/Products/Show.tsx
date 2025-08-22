@@ -13,7 +13,7 @@ export default function Show({ prod }) {
             </h1>
         </div>
 
-        <div className="h-[calc(100vh-115px)] border-lightgray border-1 max-w-2xl w-full color-[#111] flex flex-col items-center justify-center bg-white rounded-b-lg shadow-md">
+        <div className="h-[calc(100vh-235px)] border-lightgray border-1 max-w-2xl w-full color-[#111] flex flex-col items-center justify-center bg-white rounded-b-lg shadow-md">
             <div className="h-full w-full  flex-col items-center justify-center"> 
             <div className="w-full border-b-2 border-gray-200 pl-1 mb-4">
                 <a href={route('products.index')} className="underline hover:no-underline focus:outline-none focus:ring-2"> &gt;go back</a>
