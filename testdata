@@ -1,20 +1,5 @@
-{"success":true,"id":"123-123","message":"Nutrition Facts
-Serving Size: 2 slices (56g) \n
-Servings Per Container: 10 \n
-Amount Per Serving \n
-Calories: 170 \n
-% Daily Value* \n
-Total Fat 1.5g (2%) \n
-Saturated Fat 0.5g (3%) \n
-Trans Fat 0.5g \n
-Cholesterol 0mg (0%) \n
-Sodium 280mg (12%) \n
-Total Carbohydrate 36g (13%) \n
-Dietary Fiber 2g (7%) \n
-Total Sugars 1g (2%) \n
-Includes 1g Added Sugars (2%) \n
-Protein 4g \n
-Vitamin D 0mcg (0%) \n
-Calcium 80mg (6%) \n
-Iron 1mg (6%) \n
-Potassium 470mg (10%)"}
+{
+  "success": true,
+  "id": "123-123",
+  "message": "Nutrition Facts Serving Size: 2 slices (56g)\nServings Per Container: 10\nAmount Per Serving\nCalories: 170\n% Daily Value*\nTotal Fat 1.5g (2%)\nSaturated Fat 0.5g (3%)\nTrans Fat 0.5g\nCholesterol 0mg (0%)\nSodium 280mg (12%)\nTotal Carbohydrate 36g (13%)\nDietary Fiber 2g (7%)\nTotal Sugars 1g (2%)\nIncludes 1g Added Sugars (2%)\nProtein 4g\nVitamin D 0mcg (0%)\nCalcium 80mg (6%)\nIron 1mg (6%)\nPotassium 470mg (10%)"
+}
